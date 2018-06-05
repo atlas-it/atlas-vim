@@ -1,0 +1,4 @@
+#!/bin/bash
+# export PATH=$PATH:$GOROOT/bin:$GOPATH/bin:$GOBIN
+cd /home/dev/workspace/
+vim $@
