@@ -1,3 +1,6 @@
+" UTF8
+set encoding=utf-8
+
 " This is the default extra key bindings
 let g:fzf_action = {
   \ 'ctrl-t': 'tab split',
